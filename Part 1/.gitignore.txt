@@ -1,12 +1,12 @@
 # Compiled class file
-**/**/**/**/.class
+**/**/**/.class
 
 #Project file
-**/**/**/**/.project
+**/**/**/.project
 
 #Setup file
-**/**/**/**/bin/
-**/**/**/**/.settings/
+**/**/**/bin/
+**/**/**/.settings/
 
 # Log file
 *.log
