@@ -17,14 +17,14 @@ public class Matrix {
 	
 	public void inputMatrix() {
 	     Scanner sc = new Scanner(System.in);
-	     System.out.println("Input row matrix: ");
+	     System.out.println("Enter row matrix: ");
 	     row = sc.nextInt();
-	     System.out.println("Input col matrix: ");
+	     System.out.println("Enter col matrix: ");
 	     col = sc.nextInt();
 	     mt = new int[row][col];
 	     for(int i = 0; i < this.row; i++) {
 	       for(int j = 0; j < this.col; j++) {
-	         System.out.print("Input mt[" + i + "][" + j + "] = ");
+	         System.out.print("Enter mt[" + i + "][" + j + "] = ");
 	         mt[i][j] = sc.nextInt();
 	       }
 	     }

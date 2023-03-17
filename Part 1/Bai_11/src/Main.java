@@ -5,11 +5,11 @@ public class Main {
 		Matrix mt = new Matrix();
 	    Matrix mt1 = new Matrix();
 	    
-	    System.out.println("Input matrix 1: ");
+	    System.out.println("Enter matrix 1: ");
 	    mt.inputMatrix();
 	    mt.showMatrix();
 	    
-	    System.out.println("Input matrix 2: ");
+	    System.out.println("Enter matrix 2: ");
 	    mt1.inputMatrix();
 	    mt1.showMatrix();
 	    
